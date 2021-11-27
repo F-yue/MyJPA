@@ -3,6 +3,7 @@ import JavaBean.User;
 import org.junit.Test;
 
 public class UserDaoTest {
+    //第一次修改
     UserDao udao=new UserDao();
     @Test
     public void testCreateUser(){
